@@ -4,8 +4,7 @@
 
 ## 🚀 Apaixonado(a) por Dados & Estratégia
 
-Sou um profissional focado em **Análise de Dados**, **Business Intelligence (BI)** e **Data-Driven Decision-Making (DDDM)**, com uma paixão por transformar **dados brutos em insights valiosos**. Minha missão é utilizar a análise para **otimizar processos**, **reduzir incertezas** e **gerar impacto estratégico nas decisões empresariais**. Acredito que a descoberta de padrões e a resolução de enigmas nos dados são as chaves para o sucesso nos negócios.
-
+Sou um profissional focado em **Análise de Dados**, **Business Intelligence (BI)** e **Data-Driven Decision Making (DDDM)**. Sempre fui fascinado por **números, padrões e a arte de transformar dados brutos em insights valiosos**. Minha missão é utilizar a análise para **otimizar processos**, **reduzir incertezas** e **gerar impacto estratégico nas decisões empresariais**. O que realmente me move é o **prazer da descoberta**: o **enigma** e o **desafio de encontrar a solução de um problema**, como se fosse **"matar a charada"** dos dados.
 ---
 
 ## 🛠️ Minhas Ferramentas & Habilidades
